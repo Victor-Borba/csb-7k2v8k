@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://victor-borba.github.io/csb-7k2v8k/static/css/main.465279b9.chunk.css",
+    "main.js": "https://victor-borba.github.io/csb-7k2v8k/static/js/main.cc3c227d.chunk.js",
+    "main.js.map": "https://victor-borba.github.io/csb-7k2v8k/static/js/main.cc3c227d.chunk.js.map",
+    "runtime-main.js": "https://victor-borba.github.io/csb-7k2v8k/static/js/runtime-main.af360c36.js",
+    "runtime-main.js.map": "https://victor-borba.github.io/csb-7k2v8k/static/js/runtime-main.af360c36.js.map",
+    "static/js/2.b1ed7a21.chunk.js": "https://victor-borba.github.io/csb-7k2v8k/static/js/2.b1ed7a21.chunk.js",
+    "static/js/2.b1ed7a21.chunk.js.map": "https://victor-borba.github.io/csb-7k2v8k/static/js/2.b1ed7a21.chunk.js.map",
+    "index.html": "https://victor-borba.github.io/csb-7k2v8k/index.html",
+    "static/css/main.465279b9.chunk.css.map": "https://victor-borba.github.io/csb-7k2v8k/static/css/main.465279b9.chunk.css.map",
+    "static/js/2.b1ed7a21.chunk.js.LICENSE.txt": "https://victor-borba.github.io/csb-7k2v8k/static/js/2.b1ed7a21.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af360c36.js",
+    "static/js/2.b1ed7a21.chunk.js",
+    "static/css/main.465279b9.chunk.css",
+    "static/js/main.cc3c227d.chunk.js"
+  ]
+}
